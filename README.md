@@ -1,6 +1,5 @@
 # 2025 기업데이터 활용 AI 경진대회
 
-대학생 대외활동 공모전 채용 사이트 링커리어 https://linkareer.com/
 > 🔗 **관련 공지사항:** https://sducoss.ac.kr/ko/community/notice/inno/view/169?p=1
 
 
